@@ -1,3 +1,3 @@
-# algopython
+# Algopython
 
 My algopython projects!
